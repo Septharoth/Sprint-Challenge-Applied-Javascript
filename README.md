@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+The Document Object Model is an interface that takes HTML or XML as a tree structure where each node is branched out to represent a part of the document.
+
 2. What is an event?
+
+Events are literally what that is, an event.  Anthing that occurs on the page is an event somehow.
 
 3. What is an event listener?
 
+An event listener is what like a hook that allows you to call a function when the listener catches the event being run
+
 4. Why would we convert a NodeList into an Array?
 
+To allow array functions mostly
+
 5. What is a component?
+
+A component is a reuseable piece of code to create the same elements with different data
 
 ### Git Set up
 
